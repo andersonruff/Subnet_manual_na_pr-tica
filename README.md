@@ -18,4 +18,4 @@ simples e simulações no Cisco Packet Tracer.
 - GitHub
 
 ## Exemplos práticos
-(Imagens aqui)
+Ainda irei colocar
